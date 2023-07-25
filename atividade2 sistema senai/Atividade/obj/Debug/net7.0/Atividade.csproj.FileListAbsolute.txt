@@ -1,0 +1,30 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\bin\Debug\net7.0\Atividade.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\bin\Debug\net7.0\Atividade.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema\atividade\obj\Debug\net7.0\ref\Atividade.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\bin\Debug\net7.0\Atividade.exe
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\bin\Debug\net7.0\Atividade.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\atividade2 sistema senai\Atividade\obj\Debug\net7.0\ref\Atividade.dll
